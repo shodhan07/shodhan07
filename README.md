@@ -13,7 +13,7 @@
 
 ### 🔭 About Me
 
-- 👨‍💻 I'm currently working at **Merck Group** as an **Intern**, building automation workflows and enterprise-grade applications.  
+- 👨‍💻 I'm currently working at **Merck Group** as an **Associate Analyst**, building automation workflows and enterprise-grade applications.  
 - 🚀 Skilled in **C++, JavaScript, React, MySQL, MS SQL**, with experience in **K2 Applications**, **ServiceNow catalog items**, and **Copilot Studio**.  
 - 🌱 Actively learning **Full-Stack Development** and exploring advanced workflow automation.  
 - 🛠️ Passionate about solving real-world problems, automation, and full-stack development.  
